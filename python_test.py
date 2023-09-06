@@ -1,5 +1,3 @@
 print("hello")
 print("fuck you")
 print("ieieieieieie")
-print(123)
-print(456)
